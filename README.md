@@ -1,4 +1,4 @@
-# intertest
+# Cloud Interconnection Benchmarking Setup
 
 #### 1.	Follow the [setup document](https://github.com/equinix/cloud-interconnection-benchmarking-backup/blob/master/docs/Cloud%20Interconnection%20Benchmarking%20Backup%20-%20Infrastructure%20Configuration%20v1.0.pdf) to create the environment.
 
